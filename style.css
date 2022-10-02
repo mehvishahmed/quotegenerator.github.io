@@ -34,7 +34,7 @@ body{
 .links{
     display: flex;
     justify-content: space-between;
-    padding:30;
+    padding:30px;
     justify-content:center;
 }
 button{
